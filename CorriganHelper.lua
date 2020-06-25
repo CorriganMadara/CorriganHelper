@@ -84,7 +84,7 @@ local script_vers_text = '1.05'
 local update_url = 'https://raw.githubusercontent.com/CorriganMadara/CorriganHelper/master/update.ini'
 local update_path = getWorkingDirectory() .. '/update.ini'
 
-local sctipt_url = "https://github.com/CorriganMadara/CorriganHelper/raw/master/CorriganHelper.lua" --'https://github.com/CorriganMadara/CorriganHelper/blob/master/CorriganHelper.lua?raw=true'
+local sctipt_url = 'https://github.com/CorriganMadara/CorriganHelper/blob/master/CorriganHelper.lua?raw=true'
 local script_path = thisScript().path
 
 function main()
